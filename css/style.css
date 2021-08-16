@@ -2,7 +2,7 @@
 body{
    margin:0;
    font-family: 'Quicksand', sans-serif;
-   background-color: rgb(249,249,249);
+   background-color: red;
    background-image: url('logos/betterxp.png');
    background-repeat: no-repeat;
 } 
