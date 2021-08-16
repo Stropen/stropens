@@ -2,10 +2,6 @@
 body{
    margin:0;
    font-family: 'Quicksand', sans-serif;
-   background-color: red;
-   background-image: url('logos/betterxp.png');
+   background-image: url('https://github.com/Stropen/stropens/logos/betterxp.png');
    background-repeat: no-repeat;
 } 
-.navbar{
-  background-color: white;
-}
