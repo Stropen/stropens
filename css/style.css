@@ -6,3 +6,6 @@ body{
    background-image: url('logos/betterxp.png');
    background-repeat: no-repeat;
 } 
+.navbar{
+  background-color: white;
+}
