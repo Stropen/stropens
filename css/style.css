@@ -3,4 +3,6 @@ body{
    margin:0;
    font-family: 'Quicksand', sans-serif;
    background-color: black;
+   background-image: url('logos/betterxp.png');
+   background-repeat: no-repeat;
 } 
