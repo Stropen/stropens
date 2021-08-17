@@ -6,13 +6,11 @@ body {
     background-color: #131b21;
 }
 .bgn {
-    background-color: black;
+    background-color: green;
     border: 1px solid #fff;
 }
 .htext {
-background-image: url('logos/betterxp.png);
-background-repeat: no-repeat;
-color: rgb(249,249,249);
+color: green;
 font-weight: inherit;
 line-height: 1.2;
 }
