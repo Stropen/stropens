@@ -10,7 +10,9 @@ body {
     border: 1px solid #fff;
 }
 .htext {
-color: #ffffff;
+background-image: url('logos/betterxp.png);
+background-repeat: no-repeat;
+color: rgb(249,249,249);
 font-weight: inherit;
 line-height: 1.2;
 }
