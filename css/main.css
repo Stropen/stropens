@@ -1,10 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 .bgn {
-    background-color: black;
+    background-color: green;
     border: 1px solid #fff;
 }
 .htext {
-color: green;
+color: blue;
 font-weight: inherit;
 line-height: 1.2;
 }
