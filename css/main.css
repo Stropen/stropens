@@ -354,5 +354,5 @@ ul.social-icons {
 }
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-    background: rgb(84, 81, 81); 
+    background: #00CC99; 
   }
